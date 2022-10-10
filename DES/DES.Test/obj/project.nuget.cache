@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pWEtNDMlpF4rqkrlKt9sGydCnqyl0VCNVaqvPmgTyWArW0a414JDQtHW1L+TYRFuvA9EAv8di0fG6ITzq5t9MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dmitrii.romanenco\\Downloads\\DES\\DES.Test\\DES.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmitrii.romanenco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\dmitrii.romanenco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dmitrii.romanenco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dmitrii.romanenco\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

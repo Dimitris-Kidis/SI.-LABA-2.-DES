@@ -1,0 +1,12 @@
+C:\Users\dmitrii.romanenco\Downloads\DES\DES\bin\Debug\net5.0\DES.deps.json
+C:\Users\dmitrii.romanenco\Downloads\DES\DES\bin\Debug\net5.0\DES.dll
+C:\Users\dmitrii.romanenco\Downloads\DES\DES\bin\Debug\net5.0\DES.pdb
+C:\Users\dmitrii.romanenco\Downloads\DES\DES\obj\Debug\net5.0\DES.csproj.AssemblyReference.cache
+C:\Users\dmitrii.romanenco\Downloads\DES\DES\obj\Debug\net5.0\DES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitrii.romanenco\Downloads\DES\DES\obj\Debug\net5.0\DES.AssemblyInfoInputs.cache
+C:\Users\dmitrii.romanenco\Downloads\DES\DES\obj\Debug\net5.0\DES.AssemblyInfo.cs
+C:\Users\dmitrii.romanenco\Downloads\DES\DES\obj\Debug\net5.0\DES.csproj.CoreCompileInputs.cache
+C:\Users\dmitrii.romanenco\Downloads\DES\DES\obj\Debug\net5.0\DES.dll
+C:\Users\dmitrii.romanenco\Downloads\DES\DES\obj\Debug\net5.0\refint\DES.dll
+C:\Users\dmitrii.romanenco\Downloads\DES\DES\obj\Debug\net5.0\DES.pdb
+C:\Users\dmitrii.romanenco\Downloads\DES\DES\obj\Debug\net5.0\ref\DES.dll
